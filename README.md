@@ -23,5 +23,5 @@ AltGr + e = €<br />
 Shift + \ = ¢<br />
 AltGr + \ = Þ<br />
 
-*Diese Taste ist für persönliche Re-mappings gedacht (z.B. mit PowerToys).<br />
+*Diese Taste ist für persönliche Re-mappings gedacht.<br />
 Beispiel: ¥ -> F11* <br />
