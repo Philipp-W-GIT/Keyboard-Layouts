@@ -1,4 +1,4 @@
-# Phil_V5 Keyboard Layout
+# Phil_V5 Deluxe Keyboard Layout
 
 
 <br />
