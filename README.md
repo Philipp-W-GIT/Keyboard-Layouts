@@ -2,7 +2,7 @@
 
 
 <br />
-Das Layout basiert auf dem EurKEY (1.3) Layout.<br />
+Phil_V5 basiert auf EurKEY (1.3).<br />
 (https://eurkey.steffen.bruentjen.eu/layout.html)<br />
 <br />
 Mit den folgenden Änderungen:<br />
