@@ -17,7 +17,7 @@ AltGr + e = €<br />
 
 
 *Die im folgenden geänderte Taste ist nicht auf allen Tastaturen vorhanden<br />
-(Auf DE-Tastaturen ist es die Taste für <, > sowie |)*.<br />
+(Auf DE-Tastaturen ist es die Taste für <, > sowie | )*.<br />
 <br />
 \ = ¥<br />
 Shift + \ = ¢<br />
