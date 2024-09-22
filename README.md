@@ -1,4 +1,4 @@
-# Phil_V4 Keyboard Layout
+# Phil_V5 Keyboard Layout
 
 
 <br />
@@ -19,9 +19,7 @@ AltGr + e = €<br />
 *Die im folgenden geänderte Taste ist nicht auf allen Tastaturen vorhanden<br />
 (Auf DE-Tastaturen ist es die Taste für <, > sowie | )*.<br />
 <br />
-\ = ¥<br />
-Shift + \ = ¢<br />
-AltGr + \ = Þ<br />
-
+\ = Þ<br />
+Shift + \ = {} (=leere Menge/nichts)<br />
 *Diese Taste ist für persönliche Re-mappings gedacht.<br />
-Beispiel: ¥ -> F11* <br />
+Beispiel: Þ -> F11* <br />
