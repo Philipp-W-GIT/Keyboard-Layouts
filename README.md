@@ -2,10 +2,10 @@
 
 
 <br />
-Das Layout basiert auf dem EurKEY (1.3) Layout<br />
-https://eurkey.steffen.bruentjen.eu/layout.html ,<br />
+Das Layout basiert auf dem EurKEY (1.3) Layout.<br />
+(https://eurkey.steffen.bruentjen.eu/layout.html)<br />
 <br />
-mit den folgenden Änderungen:<br />
+Mit den folgenden Änderungen:<br />
 <br />
 AltGr + d = ü<br />
 AltGr + f = ö<br />
@@ -21,5 +21,6 @@ AltGr + e = €<br />
 <br />
 \ = Þ<br />
 Shift + \ = {} (=nichts)<br />
+<br />
 *Diese Taste ist für persönliche Re-mappings gedacht.<br />
 Beispiel: Þ -> F11* <br />
