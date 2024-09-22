@@ -20,6 +20,6 @@ AltGr + e = €<br />
 (Auf DE-Tastaturen ist es die Taste für <, > sowie | )*.<br />
 <br />
 \ = Þ<br />
-Shift + \ = {} (=leere Menge/nichts)<br />
+Shift + \ = {} (=nichts)<br />
 *Diese Taste ist für persönliche Re-mappings gedacht.<br />
 Beispiel: Þ -> F11* <br />
