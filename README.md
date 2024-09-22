@@ -1,4 +1,4 @@
-# Phil_V2 Keyboard Layout
+# Phil_V4 Keyboard Layout
 
 
 <br />
@@ -21,7 +21,7 @@ AltGr + e = €<br />
 <br />
 \ = ¥<br />
 Shift + \ = ¢<br />
-AltGr + \ = ✗<br />
+AltGr + \ = Þ<br />
 
 *Diese Taste ist für persönliche Re-mappings gedacht (z.B. mit PowerToys).<br />
-Beispiel: ¥ -> F11*<br />
+Beispiel: ¥ -> F11* <br />
