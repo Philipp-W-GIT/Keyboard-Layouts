@@ -15,5 +15,5 @@ AltGr + e = €<br />
 *Die im folgenden geänderte Taste ist nicht auf allen Tastaturen vorhanden<br />
 (Auf DE-Tastaturen ist es die Taste für <, > und |)*.<br />
 <br />
-\ (linke Seite der Tastatur) = $<br />
-| [Shift + \] (linke Seite der Tastatur) = _<br />
+\ = $<br />
+Shift + \  = _<br />
