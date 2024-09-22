@@ -15,5 +15,9 @@ AltGr + e = €<br />
 *Die im folgenden geänderte Taste ist nicht auf allen Tastaturen vorhanden<br />
 (Auf DE-Tastaturen ist es die Taste für <, > und |)*.<br />
 <br />
-\ = $<br />
-Shift + \  = _<br />
+\ = ¥<br />
+Shift + \ = ¢<br />
+AltGr + \ = ✗<br />
+
+Diese Taste ist für persönliche remappings gedacht (z.B. über PowerToys).
+Beispiel: ¥ -> F11
