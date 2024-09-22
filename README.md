@@ -1,6 +1,6 @@
 **Phil_V2 Layout**<br />
 <br />
-Das Layout basiert auf dem EurKEY Layout (1.3)<br />
+Das Layout basiert auf dem EurKEY (1.3) Layout<br />
 https://eurkey.steffen.bruentjen.eu/layout.html ,<br />
 <br />
 bis auf die folgenden Änderungen:<br />
